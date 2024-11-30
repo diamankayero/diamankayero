@@ -108,7 +108,9 @@
 
 ---
 
-Merci d'avoir visité mon profil ! 🌟
+
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=diamankayero&hide_border=faux)](https://git.io/streak-stats)
+
+Merci d'avoir visité mon profil ! 🌟
