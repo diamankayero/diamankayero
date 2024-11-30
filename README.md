@@ -17,8 +17,6 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/diamankayero/diamankayero/output/snake.svg" alt="Snake animation" />
-
 ###
 
 ### 🛠️ Langues et outils :
