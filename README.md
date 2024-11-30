@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋 , je m’appelle Yéro</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=faux&vCenter=faux&repeat=vrai&random=faux&width=435&lines=Salut+%F0%9F%91%8B%2C+moi+c'est+Y%C3%A9ro" alt="Typing SVG" /></a></h1>
 <h3 align="center">Je fais les maths et aussi je code beaucoup mon temps libre</h3>
 
 <div align="center">
