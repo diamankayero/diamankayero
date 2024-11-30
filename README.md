@@ -8,10 +8,6 @@
   </a>
   <a href="https://twitter.com/votreprofil" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
-  </a>
-  <a href="mailto:yero.diamanka@hotmail.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gmail/gmail-original.svg" alt="Email" width="40" height="40"/>
-  </a>
 </p>
 
 <h3 align="left">Langues et outils :</h3>
