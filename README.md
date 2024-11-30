@@ -4,20 +4,62 @@
 
 ---
 
-### 📫 Connectez-vous avec moi :
+<a href="https://medium.com/">
+  <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/medium.svg" />
+</a>
+<a href="https://www.zhihu.com/people/zhen-liang-liao-62">
+  <img align="left" alt="Zhihu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/zhihu.svg" />
+</a>
+<a href="https://leetcode-cn.com/u/Jack_yu-1999/">
+  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+<a href="https://github.com/yzp-99/">
+  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/joinchat/AAAAAFhPQ4We6zukAHmHrQ">
+  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/telegram.svg" />
+</a>
+<a href="https://mail.google.com/ ">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
+</a>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/votreprofil" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://twitter.com/votreprofil" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
-  </a>
-</p>
+<br />
+<br />
 
----
 
-###
+<h3>How I'd define myself...literally</h3>
+
+ ```ruby
+ class Sy < Person
+   def initialize
+     @name = 'Yéro Diamanka'
+     @age = 23
+     @work = [ 'MangoTree Dev', 'ARTSVP', 'Instamove', 'Le Wagon' ]
+     @education = [ 'Georgia Tech BS', 'HBX/HBS' 'Le Wagon', 'Georgia Tech MS' ]
+     @hobbies = [ 'Skydiving', 'Snowboarding', 'Tacos' ]
+   end
+
+   def current_location
+     'Syllacounda, Sénégal, Afrique'
+   end
+
+   def next_locations
+     ['Lyon, 8', 'France, EU']
+   end
+
+   def currently
+     {
+       studying: [ 'Mathematique' ],
+       reading: [ 'Rails AntiPatterns', 'Deep Work' ],
+       tinkering: [ 'Google Pay', 'Apple Wallet', 'Pen Testing' ]
+      }
+   end
+ end
+ ```
+ 
+<br>
+
+<br>
 
 ### 🛠️ Langues et outils :
 
@@ -49,6 +91,8 @@
   </a>
 </p>
 
+<br>
+
 #### Bases de données
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -73,6 +117,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
   </a>
 </p>
+
+<br>
 
 #### Frameworks et autres outils
 <p align="left">
@@ -110,7 +156,7 @@
 
 ---
 
-
+<br>
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=diamankayero&hide_border=faux)](https://git.io/streak-stats)
