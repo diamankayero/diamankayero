@@ -16,6 +16,9 @@
   <a href="https://twitter.com/votreprofil" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
   </a>
+  <a href="mailto:votremail@example.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gmail/gmail-original.svg" alt="Email" width="40" height="40"/>
+  </a>
 </p>
 
 ---
@@ -116,12 +119,23 @@ Merci d'avoir visité mon profil ! 🌟
 <script>
   function toggleTheme() {
     const body = document.body;
-    const currentTheme = body.getAttribute('data-theme');
-    const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
-    body.setAttribute('data-theme', newTheme);
+    body.classList.toggle('dark-theme');
   }
 </script>
 
 <style>
   :root {
-    --bg-color-light: #ffffff
+    --bg-color-light: #ffffff;
+    --text-color-light: #000000;
+    --bg-color-dark: #000000;
+    --text-color-dark: #ffffff;
+  }
+
+  body {
+    background-color: var(--bg-color-light);
+    color: var(--text-color-light);
+  }
+
+  body.dark-theme {
+    background-color: var(--bg-color-dark);
+    color
