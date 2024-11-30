@@ -1,6 +1,10 @@
 <h1 align="center">Salut 👋 , je m’appelle Yéro</h1>
 <h3 align="center">Je fais les maths et aussi je code beaucoup mon temps libre</h3>
 
+<div align="center">
+  <button id="theme-toggle" onclick="toggleTheme()">🌗 Basculer le thème</button>
+</div>
+
 ---
 
 ### 📫 Connectez-vous avec moi :
@@ -11,6 +15,7 @@
   </a>
   <a href="https://twitter.com/votreprofil" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
+  </a>
 </p>
 
 ---
@@ -107,3 +112,16 @@
 ---
 
 Merci d'avoir visité mon profil ! 🌟
+
+<script>
+  function toggleTheme() {
+    const body = document.body;
+    const currentTheme = body.getAttribute('data-theme');
+    const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+    body.setAttribute('data-theme', newTheme);
+  }
+</script>
+
+<style>
+  :root {
+    --bg-color-light: #ffffff
