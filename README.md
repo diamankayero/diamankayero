@@ -34,9 +34,9 @@
    def initialize
      @name = 'Yéro Diamanka'
      @age = 23
-     @work = [ 'MangoTree Dev', 'ARTSVP', 'Instamove', 'Le Wagon' ]
-     @education = [ 'Georgia Tech BS', 'HBX/HBS' 'Le Wagon', 'Georgia Tech MS' ]
-     @hobbies = [ 'Skydiving', 'Snowboarding', 'Tacos' ]
+     @work = [ 'Mango', 'ARTSVP', 'Instamove', 'Le Wagon' ]
+     @education = [ 'UADB', 'LAMB' 'ES', 'FS M' ]
+     @hobbies = [ 'Recherche', 'Astronomie', 'Learn' ]
    end
 
    def current_location
