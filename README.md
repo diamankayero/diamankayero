@@ -1,65 +1,17 @@
 
-<h1 align="center">Salut 👋 , je m’appelle Yéro</h1>
-<h3 align="center">Je fais les maths et aussi je code beaucoup mon temps libre</h3>
+### Hi, I'm Yéro 👋
 
+I study math and i am interesiting in large language models (LLMs), deep learning, and open-source development. 
+
+My work focuses on functional analysis and group theory and open-source contributions.  
+
+#### Links  
+
+- Website: [diamanka.pages.dev](https://diamanka.pages.dev)
+- Math: [Rmaths](https://rmaths.pages.dev)  
+- LinkedIn: [in/diamankayero](https://linkedin.com/in/diamankayero)
 ---
 
-<a href="https://medium.com/">
-  <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/medium.svg" />
-</a>
-<a href="https://www.zhihu.com/people/zhen-liang-liao-62">
-  <img align="left" alt="Zhihu" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/zhihu.svg" />
-</a>
-<a href="https://leetcode-cn.com/u/Jack_yu-1999/">
-  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://github.com/yzp-99/">
-  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/joinchat/AAAAAFhPQ4We6zukAHmHrQ">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/telegram.svg" />
-</a>
-<a href="https://mail.google.com/ ">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
-</a>
-
-<br />
-<br />
-
-
-<h3>How I'd define myself...literally</h3>
-
- ```ruby
- class Sy < Person
-   def initialize
-     @name = 'Yéro Diamanka'
-     @age = 23
-     @work = [ 'Mango', 'ARTSVP', 'Instamove', 'Le Wagon' ]
-     @education = [ 'UADB', 'LAMB' 'ES', 'FS M' ]
-     @hobbies = [ 'Recherche', 'Astronomie', 'Learn' ]
-   end
-
-   def current_location
-     'Syllacounda, Sénégal, Afrique'
-   end
-
-   def next_locations
-     ['Lyon, 8', 'France, EU']
-   end
-
-   def currently
-     {
-       studying: [ 'Mathematique' ],
-       reading: [ 'Rails AntiPatterns', 'Deep Work' ],
-       tinkering: [ 'Google Pay', 'Apple Wallet', 'Pen Testing' ]
-      }
-   end
- end
- ```
- 
-<br>
-
-<br>
 
 ### 🛠️ Langues et outils :
 
