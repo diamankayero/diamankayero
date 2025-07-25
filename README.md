@@ -8,6 +8,6 @@ My work focuses on functional analysis and group theory and open-source contribu
 #### Links  
 
 - Website: [diamanka.pages.dev](https://diamanka.pages.dev)
-- Math: [R-math](https://senmath.com)  
+- Math: [R-mat](https://senmath.com)  
 - LinkedIn: [in/diamankayero](https://linkedin.com/in/diamankayero)
 ---
