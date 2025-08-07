@@ -3,7 +3,7 @@
 Étudiant en mathématiques, je me consacre à l’exploration des structures abstraites et à leur application dans les domaines de l’intelligence artificielle et du développement open-source. Mon parcours est guidé par la rigueur, la curiosité et le désir de contribuer à des avancées concrètes.
 
 📚 **Ce qui me définit :**
-- Une solide formation en **analyse fonctionnelle** et **théorie des groupes**
+- Une solide formation en **analyse, probabiltés, statistique** et **théorie des groupes**
 - Une passion pour les **modèles de langage (LLM)** et l’**apprentissage profond**
 - Un engagement actif dans l’**open-source**, avec des contributions claires et utiles
 
