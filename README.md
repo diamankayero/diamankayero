@@ -14,7 +14,7 @@
 
 🌐 **Mes espaces :**
 - [Site personnel](https://diamanka.pages.dev) – projets, réflexions et ressources
-- [R-ma](https://diamanka.pages.dev/r-ma) – notes mathématiques
+- [R-ma](https://senmath.com) – notes mathématiques
 - [LinkedIn](https://linkedin.com/in/diamankayero) – parcours et réseau
 
 ---
