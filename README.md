@@ -1,4 +1,4 @@
 ### Yéro Diamanka
 
 Mathematics student.
-I like algorithms and deep neural networks and algorithms.
+I like deep neural networks and algorithms.
